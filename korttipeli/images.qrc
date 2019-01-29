@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/cards">
+        <file>club-300px.png</file>
+        <file>diamond-300px.png</file>
+        <file>heart-300px.png</file>
+        <file>spade-300px.png</file>
+        <file>card-back-177x249.png</file>
+    </qresource>
+</RCC>
